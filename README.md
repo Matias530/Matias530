@@ -5,19 +5,19 @@
 # ¡Hola, Soy Matías! 👋
 
 
-## 🚀 Sobre mi
+## 🚀 Sobre mí
 Soy Desarrollador Fullstack.
 
 
-## 🛠 Skills
-![Javascript](icons/js.png)
-![HTML](icons/html5.png)
-![CSS](icons/css-3.png)
-![Bootstrap](icons/bootstrap.png)
-![Node.js](icons/nodejs.png)
-![Express.js](icons/express.png)
-![Python](icons/python.png)
-![Java](icons/java.png)
+## 🖥 Tecnologías
+![Javascript](icons/js.png) 
+![HTML](icons/html5.png) 
+![CSS](icons/css-3.png) 
+![Bootstrap](icons/bootstrap.png) 
+![Node.js](icons/nodejs.png) 
+![Express.js](icons/express.png) 
+![Python](icons/python.png) 
+![Java](icons/java.png) 
 
 
 ## 📊 Stats
