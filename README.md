@@ -11,15 +11,13 @@ Soy Desarrollador Fullstack.
 
 ## 🛠 Skills
 ![Javascript](icons/js.png)
-- Javascript
-- HTML
-- CSS
-- Bootstrap
-- Node.js
-- Express.js
-- EJS
-- Python
-- Java
+![HTML](icons/html5.png)
+![CSS](icons/css-3.png)
+![Bootstrap](icons/bootstrap.png)
+![Node.js](icons/nodejs.png)
+![Express.js](icons/express.png)
+![Python](icons/python.png)
+![Java](icons/java.png)
 
 
 ## 📊 Stats
