@@ -10,6 +10,7 @@ Soy Desarrollador Fullstack.
 
 
 ## 🛠 Skills
+![Javascript](icons/js.png)
 - Javascript
 - HTML
 - CSS
