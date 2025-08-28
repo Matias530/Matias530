@@ -10,12 +10,15 @@ Soy Desarrollador Fullstack.
 
 
 ## 🖥 Tecnologías
+![Angular](icons/angular.png) 
 ![Javascript](icons/js.png) 
+![Typecript](icons/typescript.png) 
 ![HTML](icons/html5.png) 
 ![CSS](icons/css-3.png) 
 ![Bootstrap](icons/bootstrap.png) 
 ![Node.js](icons/nodejs.png) 
 ![Express.js](icons/express.png) 
+![PostgreSQL](icons/postgresql.png) 
 ![Python](icons/python.png) 
 ![Java](icons/java.png) 
 
